@@ -1,0 +1,15 @@
+.header{
+    background-color: rgba(28, 43, 53, 1);
+    display: flex;
+    align-items: center;
+    height: 80px;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.header a{
+    text-decoration: none;
+    margin-left: 36px;
+    color: azure;
+    font-size: 17px;
+}
