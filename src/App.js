@@ -5,10 +5,12 @@ import Product from './Conponents/Products/Product';
 
 
 function App() {
+
+  
   return (
     <div className="App">
-     <Header></Header>
-     <Product></Product>
+            <Header></Header>
+            <Product></Product>
     </div>
   );
 }
